@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/estebanmaxposse/cartridgeValleyTesting/issues"
   },
-  "homepage": "https://github.com/estebanmaxposse/cartridgeValleyTesting#readme"
+  "homepage": "https://github.com/estebanmaxposse/cartridgeValleyTesting#readme",
+  "dependencies": {
+    "axios": "^1.2.6"
+  },
+  "type": "module"
 }

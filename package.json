@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "testing files for cartrisge valley backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanmaxposse/cartridgeValleyTesting.git"
+  },
+  "keywords": [
+    "test",
+    "gaming",
+    "development"
+  ],
+  "author": "Esteban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estebanmaxposse/cartridgeValleyTesting/issues"
+  },
+  "homepage": "https://github.com/estebanmaxposse/cartridgeValleyTesting#readme"
+}
